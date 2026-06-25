@@ -4,7 +4,7 @@ GO
 
 
 -- Create the 'DataWarehouse' database
-CREATE DATABASE DataWarehouse;
+DROP DATABASE IF EXISTS DataWarehouse;
 GO
 
 USE DataWarehouse;
