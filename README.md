@@ -57,14 +57,16 @@ The warehouse integrates data from two operational systems.
 ---
 
 # Data Ingestion Diagram
+<img width="1093" height="549" alt="image" src="https://github.com/user-attachments/assets/8a544ae6-5940-43bc-a7c7-1f7be84d58ab" />
 
-> *(Insert your CRM → ERP relationship diagram here)*
+
 
 ---
 
 # Data Flow Diagram
 
-> *(Insert your Bronze → Silver → Gold pipeline diagram here)*
+> *<img width="1093" height="568" alt="image" src="https://github.com/user-attachments/assets/2e48d578-931f-4a5a-abb7-824991b57a0a" />
+*
 
 ---
 
