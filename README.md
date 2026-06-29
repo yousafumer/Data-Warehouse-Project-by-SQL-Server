@@ -248,6 +248,7 @@ Business Intelligence
 Dashboards
 Analytics
 ```
+<img width="729" height="369" alt="image" src="https://github.com/user-attachments/assets/196b573d-c7bd-45dc-b8b6-98ce3b517613" />
 
 ---
 
