@@ -65,7 +65,8 @@ The warehouse integrates data from two operational systems.
 
 # Data Flow Diagram
 
-> *<img width="1093" height="568" alt="image" src="https://github.com/user-attachments/assets/2e48d578-931f-4a5a-abb7-824991b57a0a" />
+> *<img width="588" height="389" alt="image" src="https://github.com/user-attachments/assets/67c05eb5-89fd-426b-918d-ba547f98ccf9" />
+ />
 *
 
 ---
